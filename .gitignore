@@ -1,0 +1,62 @@
+
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+[Bb]uild/
+[Oo]ut/
+bld/
+
+.qmlls.ini
+
+# Platform-specific build results and executables
+# The actual names may vary based on your add_executable() names
+*.o
+*.obj
+*.d
+*.exe
+*.out
+*.bin
+*.dll
+*.so
+*.a
+*.lib
+
+# Temporary and log files
+*.log
+*.temp
+*.tmp
+
+# Visual Studio files
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+ipch/
+*.aps
+*.opendb
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.config.cache
+*.sdf
+*.opensdf
+
+# IDE specific files (VS Code, CLion, etc.)
+.vscode/
+.idea/
+cmake-build-*/
+compile_commands.json
+
+# Dependencies folder if managed locally (e.g. vcpkg artifacts)
+_deps/
+
+# OS generated files
+.DS_Store
+.cache/

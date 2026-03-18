@@ -1,0 +1,11 @@
+Language: Cpp
+IndentWidth: 4
+UseTab: Never
+BreakBeforeBraces: Allman
+InsertTrailingCommas: None
+NamespaceIndentation: None
+SortIncludes: false
+PointerAlignment: Left
+ColumnLimit: 0
+MaxEmptyLinesToKeep: 2
+BasedOnStyle: LLVM
